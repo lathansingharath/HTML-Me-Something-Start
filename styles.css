@@ -1,1 +1,63 @@
 /* Write your CSS here! */
+body {
+    margin: 11px;
+    display: block;
+    
+    background-image: url("./lathan_pics/scrappy-doo.jpg");
+    background-size: cover;
+    color: red;
+}
+#mainHeading {
+    text-align: center;
+    color: red;
+    border-bottom: 10px solid red;
+    
+}
+
+
+
+#purina {
+    
+    
+    position: relative;
+    height: 100px;
+    display: inline;
+
+}
+#scrappy {
+   
+    position: relative;
+    height: 300px;
+    width: 325px;
+    display: inline;
+    left: 80%;
+    top:-117px
+}
+
+
+#testP {
+   
+    font-style:italic;
+    color: blue;
+
+
+}
+.funParagraph {
+    color: green;
+    font-weight: 1000;
+    font-style: italic;
+    text-shadow: 2px 2px;
+}
+
+#education {
+    border: 11px solid red;
+    display: inline;   
+}
+
+footer {
+    text-align: center;
+   
+}
+.boldWords {
+    color: red;
+}
